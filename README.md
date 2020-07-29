@@ -1,2 +1,2 @@
 # hello_world
-learning
+hi! I like java!
